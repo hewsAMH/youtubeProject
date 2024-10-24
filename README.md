@@ -1,8 +1,7 @@
 # youtubeProject
-
+## group contributing expectations:
 BEFORE YOU MAKE CHANGES: 
 - navigate to the repo in the terminal
-- git status
 - git pull
 now you can open the notebook and changes will be up to date, ensure your local notebook looks the same as the notebook on the repository
 
